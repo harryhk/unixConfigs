@@ -26,6 +26,9 @@ set wildmode=list:longest,full
 set incsearch
 set hlsearch
 
+set autochdir
+set tags=tags;
+
 " change escape key in inserting mode 
 inoremap jk <esc>
 
